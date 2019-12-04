@@ -46,7 +46,7 @@ Let us know your thoughts below. And good luck with development!
 
 ## Versions
 
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-kit)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/vue-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-now-ui-design-system)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-design-system-react)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-native-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-react-native)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/angular-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-dashboard-angular)
+[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-kit-pro)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/vue-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-now-ui-kit-pro)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-kit-pro-react)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-native-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-react-native)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/angular-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-kit-pro-angular)
 
 
 
@@ -54,7 +54,7 @@ Let us know your thoughts below. And good luck with development!
 
 | HTML | React | Angular  |
 | --- | --- | ---  |
-| [![Now UI Kit](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit/opt_nuk_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-kit)  | [![Now UI Kit React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit-react/opt_nuk_react_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-kit-angular)  | [![Now UI Kit Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit-angular/opt_nuk_angular_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-kit-angular)
+| [![Now UI Kit Pro](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-kit-pro/opt_nukp_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-kit-pro)  | [![Now UI Kit PRO React](https://s3.amazonaws.com/creativetim_bucket/products/171/original/opt_nukp_react_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-kit-pro-react)  | [![Now UI Kit PRO Angular](https://s3.amazonaws.com/creativetim_bucket/products/74/original/opt_nukp_angular_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-kit-pro-angular)
 
 ## Demo
 
@@ -63,7 +63,7 @@ Let us know your thoughts below. And good luck with development!
 | [![Home Screen](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-react-native/home-screen.png)](https://demos.creative-tim.com/now-ui-pro-react-native/) | [![Profile Screen](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-react-native/profile-screen.png)](https://demos.creative-tim.com/now-ui-pro-react-native/) | [![Elements Screen](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-react-native/elements-screen.png)](https://demos.creative-tim.com/now-ui-pro-react-native/) | [![Register Screen](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-react-native/register-screen.png)](https://demos.creative-tim.com/now-ui-pro-react-native/) |
 
 - [Start page](https://demos.creative-tim.com/now-ui-pro-react-native)
-- [How to install our free demo](https://demos.creative-tim.com/now-ui-pro-react-native/docs/#/install)
+- [How to install](https://demos.creative-tim.com/now-ui-pro-react-native/docs/#/install)
 
 [View more](https://demos.creative-tim.com/now-ui-pro-react-native)
 
