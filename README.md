@@ -1,30 +1,30 @@
-# [Now UI React Native](https://creativetimofficial.github.io/now-ui-react-native/docs/#) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=now-ui%20React%20Native,%20a%20cool%20NowUI%20React%20Native%20App%20Template%20%E2%9D%A4%EF%B8%8F%20https%3A//bit.ly/2KAj86H%20%23reactnative%20%23NowUI%20%23designsystem%20%23developers%20via%20%40CreativeTim)
+# [Now UI PRO React Native](https://creativetimofficial.github.io/ct-now-ui-pro-react-native/docs/#) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=now-ui%20React%20Native,%20a%20cool%20NowUI%20React%20Native%20App%20Template%20%E2%9D%A4%EF%B8%8F%20https%3A//bit.ly/2KAj86H%20%23reactnative%20%23NowUI%20%23designsystem%20%23developers%20via%20%40CreativeTim)
 
 
- ![version](https://img.shields.io/badge/version-1.0.1-blue.svg)  [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/now-ui-react-native.svg?style=flat)](https://github.com/creativetimofficial/now-ui-react-native/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/now-ui-react-native.svg?maxAge=2592000)](https://github.com/creativetimofficial/now-ui-react-native/issues?q=is%3Aissue+is%3Aclosed)
+ ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-now-ui-pro-react-native.svg?style=flat)](https://github.com/creativetimofficial/ct-now-ui-pro-react-native/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-now-ui-pro-react-native.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-now-ui-pro-react-native/issues?q=is%3Aissue+is%3Aclosed)
 
 
 ![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-react-native/opt_nurn_thumbnail.jpg)
 
-Now UI React Native is a fully coded app template built over [Galio.io](https://galio.io/?ref=creativetim), [React Native](https://facebook.github.io/react-native/?ref=creativetim) and [Expo](https://expo.io/?ref=creativetim) to allow you to create powerful and beautiful e-commerce mobile applications. We have redesigned all the usual components in Galio to make it look like Now UI's KIT, minimalistic and easy to use.
+Now UI PRO React Native is a fully coded app template built over [Galio.io](https://galio.io/?ref=creativetim), [React Native](https://facebook.github.io/react-native/?ref=creativetim) and [Expo](https://expo.io/?ref=creativetim) to allow you to create powerful and beautiful e-commerce mobile applications. We have redesigned all the usual components in Galio to make it look like Now UI's KIT, minimalistic and easy to use.
 
 Start your development with a badass Design System for React Native inspired by Now UI KIT. If you like Now UI's KIT, you will love this react native app template! It features a huge number of components and screens built to fit together and look amazing.
 
 ### FULLY CODED COMPONENTS
 
-Now UI React Native features over 200 variations of components like buttons, inputs, cards, navigations etc, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify inside our theme file.
+Now UI PRO React Native features over 200 variations of components like buttons, inputs, cards, navigations etc, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify inside our theme file.
 
 You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. We wanted the design process to be seamless, so switching from image to the real page is very easy to do.
 
 ### Components & Cards
-Now UI React Native comes packed with a large number of components and cards. Putting together a mobile app has never been easier than matching together different components. From the profile screen to a settings screen, you can easily customise and build your screens. We have created multiple options for you to put together and customise into pixel perfect screens.
+Now UI PRO React Native comes packed with a large number of components and cards. Putting together a mobile app has never been easier than matching together different components. From the profile screen to a settings screen, you can easily customise and build your screens. We have created multiple options for you to put together and customise into pixel perfect screens.
 
-View [ all components/cards here](https://demos.creative-tim.com/now-ui-react-native/index.html#cards).
+View [ all components/cards here](https://demos.creative-tim.com/now-ui-pro-react-native/index.html#cards).
 
 ### Example Screens
 If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example screens. From onboarding screens to profile or discover screens, you will be able to quickly set up the basic structure for your React Native mobile project.
 
-View [all screens here](https://demos.creative-tim.com/now-ui-react-native/index.html#screens).
+View [all screens here](https://demos.creative-tim.com/now-ui-pro-react-native/index.html#screens).
 
 
 Let us know your thoughts below. And good luck with development!
@@ -60,12 +60,12 @@ Let us know your thoughts below. And good luck with development!
 
 | Home Screen | Profile Screen | Elements Screen | Register Screen |
 | --- | --- | --- | --- |
-| [![Home Screen](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-react-native/home-screen.png)](https://demos.creative-tim.com/now-ui-react-native/) | [![Profile Screen](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-react-native/profile-screen.png)](https://demos.creative-tim.com/now-ui-react-native/) | [![Elements Screen](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-react-native/elements-screen.png)](https://demos.creative-tim.com/now-ui-react-native/) | [![Register Screen](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-react-native/register-screen.png)](https://demos.creative-tim.com/now-ui-react-native/) |
+| [![Home Screen](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-react-native/home-screen.png)](https://demos.creative-tim.com/now-ui-pro-react-native/) | [![Profile Screen](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-react-native/profile-screen.png)](https://demos.creative-tim.com/now-ui-pro-react-native/) | [![Elements Screen](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-react-native/elements-screen.png)](https://demos.creative-tim.com/now-ui-pro-react-native/) | [![Register Screen](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-react-native/register-screen.png)](https://demos.creative-tim.com/now-ui-pro-react-native/) |
 
-- [Start page](https://demos.creative-tim.com/now-ui-react-native)
-- [How to install our free demo](https://demos.creative-tim.com/now-ui-react-native/docs/#/install)
+- [Start page](https://demos.creative-tim.com/now-ui-pro-react-native)
+- [How to install our free demo](https://demos.creative-tim.com/now-ui-pro-react-native/docs/#/install)
 
-[View more](https://demos.creative-tim.com/now-ui-react-native)
+[View more](https://demos.creative-tim.com/now-ui-pro-react-native)
 
 ## Quick start
 - Try it out on Expo (Simulator for iOS or even your physical device if you have an Android)
@@ -73,14 +73,14 @@ Let us know your thoughts below. And good luck with development!
 
 
 ## Documentation
-The documentation for the Now UI React Native is hosted at our [website](https://demos.creative-tim.com/now-ui-react-native/docs/).
+The documentation for the Now UI PRO React Native is hosted at our [website](https://demos.creative-tim.com/now-ui-pro-react-native/docs/).
 
 
 ## File Structure
 Within the download you'll find the following directories and files:
 
 ```
-now-ui-react-native/
+now-ui-pro-react-native/
 ├── App.js
 ├── CHANGELOG.md
 ├── ISSUE_TEMPLATE.md
@@ -90,13 +90,9 @@ now-ui-react-native/
 ├── assets/
 │   ├── css/
 │   ├── font/
-│   ├── fonts/
-│   │   └── nucleo
 │   ├── icon.png
 │   ├── imgs/
 │   ├── nuk-icons/
-│   │   ├── png/
-│   │   └── svg/
 │   └── splash.png
 ├── babel.config.js
 ├── components/
@@ -108,6 +104,7 @@ now-ui-react-native/
 │   ├── Icon.js
 │   ├── Img.js
 │   ├── Input.js
+│   ├── Notification.js
 │   ├── Select.js
 │   ├── Sliders.js
 │   ├── Switch.js
@@ -117,6 +114,9 @@ now-ui-react-native/
 │   ├── Images.js
 │   ├── Theme.js
 │   ├── articles.js
+│   ├── cart.js
+│   ├── categories.js
+│   ├── deals.js
 │   ├── index.js
 │   ├── tabs.js
 │   └── utils.js
@@ -125,14 +125,27 @@ now-ui-react-native/
 │   └── Screens.js
 ├── package.json
 └── screens/
+    ├── About.js
+    ├── Agreement.js
     ├── Articles.js
+    ├── Cart.js
+    ├── Category.js
+    ├── Chat.js
     ├── Components.js
+    ├── Fashion.js
     ├── Home.js
+    ├── Notifications.js
     ├── Onboarding.js
+    ├── PersonalNotifications.js
+    ├── Privacy.js
     ├── Pro.js
+    ├── Product.js
     ├── Profile.js
     ├── Register.js
-    └── Settings.js
+    ├── Search.js
+    ├── Settings.js
+    ├── SystemNotifications.js
+    └── Trending.js
 ```
 
 
@@ -145,13 +158,13 @@ At present, we officially aim to support the last two versions of the following 
 
 
 ## Resources
-- Demo: <https://demos.creative-tim.com/now-ui-react-native>
-- Download Page: <https://www.creative-tim.com/product/now-ui-react-native>
-- Documentation: <https://demos.creative-tim.com/now-ui-react-native/docs>
+- Demo: <https://demos.creative-tim.com/now-ui-pro-react-native>
+- Download Page: <https://www.creative-tim.com/product/now-ui-pro-react-native>
+- Documentation: <https://demos.creative-tim.com/now-ui-pro-react-native/docs>
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/now-ui-react-native/issues)
-- [Now UI Kit](https://www.creative-tim.com/product/now-ui-design-system?ref=now-uirn-readme) - For Front End Development
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-now-ui-pro-react-native/issues)
+- [Now UI Kit](https://www.creative-tim.com/product/now-ui-design-system?ref=now-uiprn-readme) - For Front End Development
 - **Dashboards:**
 
 | HTML | React |
@@ -164,9 +177,9 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Now UI React Native. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Now UI PRO React Native. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Now UI React Native.
+1. Make sure that you are using the latest version of the Now UI PRO React Native.
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
@@ -180,7 +193,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 - Copyright 2019 Creative Tim (https://www.creative-tim.com/)
 
-- Licensed under MIT (https://github.com/creativetimofficial/now-ui-react-native/blob/master/LICENSE.md)
+- Creative Tim [license](https://www.creative-tim.com/license)
 
 
 
