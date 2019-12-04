@@ -165,15 +165,16 @@ At present, we officially aim to support the last two versions of the following 
 - Support: <https://www.creative-tim.com/contact-us>
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-now-ui-pro-react-native/issues)
 - [Now UI Kit](https://www.creative-tim.com/product/now-ui-design-system?ref=now-uiprn-readme) - For Front End Development
-- **Dashboards:**
+
+**Dashboards:**
 
 | HTML | React |
 | --- | --- |
-| [![Now UI HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-dashboard/opt_nud_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-dashboard) | [![Now UI Dashboard React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-dashboard-react/opt_nud_react_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-dashboard-react)
+| [![Now UI PRO HTML](https://s3.amazonaws.com/creativetim_bucket/products/72/original/opt_nudp_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-dashboard-pro) | [![Now UI Dashboard PRO React](https://s3.amazonaws.com/creativetim_bucket/products/73/original/opt_nudp_react_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-dashboard-pro-react)
 
 | Angular | Laravel |
 | --- | --- |
-| [![Now UI Dashboard Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-dashboard-angular/opt_nud_angular_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-dashboard-angular) | [![Now UI Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/211/original/opt_nud_laravel_thumbnail.jpg?1567087282)](https://www.creative-tim.com/product/now-ui-dashboard-laravel)
+| [![Now UI Dashboard PRO Angular](https://s3.amazonaws.com/creativetim_bucket/products/145/original/opt_nudp_angular_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-dashboard-pro-angular) | [![Now UI Dashboard PRO Laravel](https://s3.amazonaws.com/creativetim_bucket/products/210/original/opt_nudp_laravel_thumbnail.jpg)](https://www.creative-tim.com/product/now-ui-dashboard-pro-laravel)
 
 ## Reporting Issues
 
