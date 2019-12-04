@@ -4,7 +4,7 @@
  ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-now-ui-pro-react-native.svg?style=flat)](https://github.com/creativetimofficial/ct-now-ui-pro-react-native/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-now-ui-pro-react-native.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-now-ui-pro-react-native/issues?q=is%3Aissue+is%3Aclosed)
 
 
-![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-react-native/opt_nurn_thumbnail.jpg)
+![Product](https://s3.amazonaws.com/creativetim_bucket/products/260/original/opt_nuprn_thumbnail.jpg)
 
 Now UI PRO React Native is a fully coded app template built over [Galio.io](https://galio.io/?ref=creativetim), [React Native](https://facebook.github.io/react-native/?ref=creativetim) and [Expo](https://expo.io/?ref=creativetim) to allow you to create powerful and beautiful e-commerce mobile applications. We have redesigned all the usual components in Galio to make it look like Now UI's KIT, minimalistic and easy to use.
 
