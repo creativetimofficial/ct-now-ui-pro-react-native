@@ -1,3 +1,27 @@
+## [1.2.0] 2020 - 06 - 20
+### Updated dependencies
+- updated `expo-asset@8.0.0` to `expo-asset@8.1.5`
+- updated `expo-font@8.0.0` to `expo-font@8.1.0`
+- updated `react-native-gesture-handler@1.5.0` to  `react-native-gesture-handler@1.6.0`
+- updated `react-native-reanimated@1.4.0` to `react-native-reanimated@1.7.0`
+- updated `react-native-screens@2.0.0-alpha.12` to `react-native-screens@2.2.0`
+- updated `react-native-safe-area-context@0.6.0` to `react-native-safe-area-context@0.7.3`
+- updated `@react-native-community/masked-view@0.1.5` to `@react-native-community/masked-view@0.1.6`
+- updated `react-native SDK@36.0.0` to `react-native SDK@37.0.0`
+- updated `babel-preset-expo@7.0.0` to `babel-preset-expo@8.2.1`
+- updated `Expo @36.0.0` to `Expo @37.0.0`
+- updated `@react-navigation/native@5.0.0` to `@react-navigation/native@5.5.0`
+- updated `@react-navigation/stack@5.0.0` to `@react-navigation/stack@5.4.1`
+- updated `@react-navigation/compat@5.0.0` to `@react-navigation/compat@5.1.25`
+- updated `@react-navigation/bottom-tabs@5.0.0` to `@react-navigation/bottom-tabs@5.5.1`
+- updated `@react-navigation/drawer@5.0.0` to `@react-navigation/drawer@5.8.1`
+### Updated files
+- change function for fontLoading in `App.js`, this should fix the often occurrence of the error
+- moved `assets/font/now.json` to `assets/config/now.json` in order to make sure there wouldn't be any issue with the build for Android
+- edited `Header.js` in order to fix the navigation error where the app won't let you go back
+- edited `Search.js` and fixed the card stacking issue, now all elements are scrollable
+- edited `Settings.js` and fixed navigation routes which were returning an error
+
 ## [1.1.0] 2020 - 03 - 10
 ### Removed dependencies
 - removed `react-navigation@4.0.10`
