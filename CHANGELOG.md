@@ -1,3 +1,27 @@
+## [1.3.0] 2020 - 11 - 06
+### Updated dependencies
+- updated `@react-native-community/masked-view@0.1.6` to `@react-native-community/masked-view@0.1.10`
+- updated `expo@37` to `expo@39`
+- updated `expo-asset@8.1.5` to `expo-asset@8.2.0`
+- updated `expo-font@8.1.0 ` to `expo-font@8.3.0`
+- updated `galio-framework@0.6.3` to `galio-framework@0.7.1`
+- updated `react@16.9.0` to `react@16.13.1`
+- updated `react-native SDK@37` to `react-native SDK@39`
+- updated `react-native-gesture-handler@1.6.0` to `react-native-gesture-handler@1.7.0`
+- updated `react-native-reanimated@1.7.0` to `react-native-reanimated@1.13.0`
+- updated `react-native-safe-area-context@0.7.3 ` to `react-native-safe-area-context@3.1.4`
+- updated `react-native-screens@2.2.0` to `react-native-screens@2.10.1`
+- updated `react-native-svg@11.0.1` to `react-native-svg@12.1.0`
+- changed the git source for react-native-modal-dropdown
+### Updated files
+- App.js - removed `packagerOpts` which solved Expo failing to load
+- Components.js - fixed `useNativeDriver` warning, layout for ScrollView and Horizontal Gallery
+- Gallery.js - fixed `useNativeDriver` warning
+- Tabs.js - fixed `useNativeDriver` warning
+- Product.js - fixed `useNativeDriver` warning, chat button styling
+- Profile.js - fixed layout positioning for buttons 
+- Cart.js - fixed Select positioning, Checkout button and the screen's layout
+
 ## [1.2.0] 2020 - 06 - 20
 ### Updated dependencies
 - updated `expo-asset@8.0.0` to `expo-asset@8.1.5`
