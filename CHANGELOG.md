@@ -1,3 +1,9 @@
+## [1.5.0] 2022 - 04 - 11
+### Updated dependencies
+- added expo-modules-core dependency
+- update existent dependencies
+- issues poped up in stackNavigator
+
 ## [1.4.0] 2020 - 03 - 08
 ### Updated dependencies
 - updated `@react-navigation/drawer@5.8.1` to `@react-navigation/drawer@5.12.4`
