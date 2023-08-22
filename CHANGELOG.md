@@ -1,3 +1,7 @@
+## [1.6.1] 2023-08-22
+### BugFixing
+- Fix duplicate navigation name issue
+
 ## [1.6.0] 2023-05-15
 
 ### Updated dependencies
